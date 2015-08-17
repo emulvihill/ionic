@@ -7,7 +7,6 @@ node_modules
 log.txt
 example/cordova/iOS/www/js/framework
 
-example/cordova/iOS/www/js/framework
 .sass-cache/
 framework.sublime-project
 
@@ -25,3 +24,4 @@ temp
 dist
 
 .idea
+*.iml
